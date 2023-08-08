@@ -41,7 +41,7 @@ sites:
 
 assignees:
   - alex-bluetec
-  - individual11
+  # - individual11
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
