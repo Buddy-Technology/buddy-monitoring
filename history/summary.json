@@ -22,19 +22,19 @@
     "url": "$STAGING_BUDDY_INSURE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-site-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 79,
+    "timeDay": 79,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-08-08": 37
+      "2023-08-08": 38
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$MY_BUDDY_INSURE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customer-site-production",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-08-08": 36
+      "2023-08-08": 38
     }
   },
   {
